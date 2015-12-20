@@ -1,0 +1,3 @@
+inputFile=inputLinks.csv
+batchFile=run.bat
+pagesPerLink=20

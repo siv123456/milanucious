@@ -1,0 +1,12 @@
+beautifulsoup4==4.4.1
+Flask==0.10.1
+-e git://github.com/carrerasrodrigo/Ghost.py.git@3e4310c1d78d497a131274541eea7ea3051453d4#egg=Ghost.py-master
+itsdangerous==0.24
+Jinja2==2.8
+MarkupSafe==0.23
+Paste==2.0.2
+PySide==1.2.4
+requests==2.9.0
+six==1.10.0
+Werkzeug==0.11.2
+wheel==0.24.0
